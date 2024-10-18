@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GD12_1133_A1_Jing\ConsoleApp1\Jing_Lab3.csproj" />
-    <ProjectReference Include="GD12_1133_A1_Jing\ConsoleApp1\Jing_Lab3.csproj" />
   </ItemGroup>
 
 </Project>
