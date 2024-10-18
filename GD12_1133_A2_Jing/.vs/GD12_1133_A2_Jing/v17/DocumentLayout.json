@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|c:\\users\\s2433014\\desktop\\t1\\porgramming class\\reposory test\\enta-1133\\gd12_1133_a2_jing\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|solutionrelative:dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|c:\\users\\s2433014\\desktop\\t1\\porgramming class\\reposory test\\enta-1133\\gd12_1133_a2_jing\\gd12_1133_a2_jing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|solutionrelative:gd12_1133_a2_jing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|c:\\users\\s2433014\\desktop\\t1\\porgramming class\\reposory test\\enta-1133\\gd12_1133_a2_jing\\roombase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|solutionrelative:roombase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|c:\\users\\s2433014\\desktop\\t1\\porgramming class\\reposory test\\enta-1133\\gd12_1133_a2_jing\\gamemananger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|solutionrelative:gamemananger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|c:\\users\\s2433014\\desktop\\t1\\porgramming class\\reposory test\\enta-1133\\gd12_1133_a2_jing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40220FC1-8FF0-4FB6-8702-CDCF1E7C0C02}|GD12_1133_A2_Jing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiceGame.cs",
+              "DocumentMoniker": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\DiceGame.cs",
+              "RelativeDocumentMoniker": "DiceGame.cs",
+              "ToolTip": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\DiceGame.cs",
+              "RelativeToolTip": "DiceGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:09:14.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GD12_1133_A2_Jing.csproj",
+              "DocumentMoniker": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\GD12_1133_A2_Jing.csproj",
+              "RelativeDocumentMoniker": "GD12_1133_A2_Jing.csproj",
+              "ToolTip": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\GD12_1133_A2_Jing.csproj",
+              "RelativeToolTip": "GD12_1133_A2_Jing.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T06:17:59.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomBase.cs",
+              "DocumentMoniker": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\RoomBase.cs",
+              "RelativeDocumentMoniker": "RoomBase.cs",
+              "ToolTip": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\RoomBase.cs",
+              "RelativeToolTip": "RoomBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:56:20.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameMananger.cs",
+              "DocumentMoniker": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\GameMananger.cs",
+              "RelativeDocumentMoniker": "GameMananger.cs",
+              "ToolTip": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\GameMananger.cs",
+              "RelativeToolTip": "GameMananger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAD0IgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:56:17.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\s2433014\\Desktop\\T1\\porgramming class\\reposory test\\enta-1133\\GD12_1133_A2_Jing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:56:19.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
